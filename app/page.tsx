@@ -4,6 +4,9 @@ import ExploreBtn from './components/ExploreBtn'
 import EventCard from './components/EventCard'
 import events from '@/lib/constants'
 
+
+
+
 const Page = () => {
   return (
     <section>
